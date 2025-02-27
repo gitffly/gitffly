@@ -17,6 +17,6 @@
 
 <details>
 <summary>Stats</summary>
-[[![](https://count.getloli.com/get/@solywsh?theme=moebooru)](https://github.com/gitffly)](https://count.getloli.com/@gitffly?name=gitffly&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+  ![:gitffly]([https://count.getloli.com/@:name](https://count.getloli.com/@gitffly?name=gitffly&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto))
 </details>
 
