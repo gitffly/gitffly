@@ -12,11 +12,5 @@
     </tr>
   </table>
 </a>
-
-
-
-<details>
-<summary>Stats</summary>
   <img src="https://count.getloli.com/@gitffly?name=gitffly&theme=capoo-2"/>
-</details>
 
